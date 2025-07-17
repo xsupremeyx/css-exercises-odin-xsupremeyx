@@ -25,9 +25,7 @@ body {
   width: 15%;
 }
 
-ul{
-  
-}
+
 .footer {
   height: 72px;
   background: #eee;
@@ -44,4 +42,14 @@ ul{
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+a{
+  text-decoration: none;
+  color: inherit; 
 }
